@@ -8,8 +8,8 @@ In the Quartantine Page you will see all the messages and the link is provided. 
 
 Admins only will have Right and Read access to Database and Users will have only Read Access. These are part of Backend and in this project I have not worked on Backend Technology.
 
-Since we are storing Mobile Number and Email Id of Users. So, whenever new notification will come we can send notifications to the Users.
+Since we are storing Mobile Number and Email Id of Users. So, whenever new Message will be uploaded we can send notifications to the Users.
 
-You can easily change Fonts, Add Logos and Color Schemes using App.css
+You can easily change Fonts, Add Logos and Color Schemes by using App.css File
 
 We can esily Switch this Web App to Mobile App using React Native. Since, the Codes are easily replicable from React DOM to React Native
